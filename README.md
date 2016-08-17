@@ -18,7 +18,7 @@ Tests are performed with Python 2.7, Django 1.7 1.8 and SpatiaLite. We'd like to
 
 **Compatibility**
 
-* Django 1.7 and 1.8
+* Django 1.7 and 1.9
 * Python 2.7 and 3.x
 
 It was only tested with PostGIS but may work with other Spatial Databases.
